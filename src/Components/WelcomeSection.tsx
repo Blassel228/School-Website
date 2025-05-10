@@ -62,7 +62,7 @@ const DiscoverButton = styled.button`
 
 `;
 
-const WelcomeSection = ({ headerOffset }) => {
+const WelcomeSection = ({ headerOffset } : {headerOffset: number | undefined}) => {
   return (
     <WelcomePageWrapper style={{ marginTop: `${headerOffset}` }}>
       <PurpleOverlay>

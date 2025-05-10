@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 import styled from 'styled-components';
 import Header from '../Components/Header';
 import WelcomeSection from '../Components/WelcomeSection';

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import styled from 'styled-components';
 import { FiArrowRight } from 'react-icons/fi';
 import image1 from '../Images/graduation1.jpg';
